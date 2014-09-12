@@ -1,23 +1,23 @@
 SpigotPatcher-Gui
 =================
 
-Binary patcher for distribution of Spigot and related updates.
+**Binary patcher for distribution of Spigot and related updates.**
 
 Usage
-
-See the initial release announcement or this wiki page for detailed usage instructions on how to use SpigotPatcher. To use, open the jar and fill in your details. 
-
-Note: Only works with java 8
+-----
+See the [initial release announcement](http://www.spigotmc.org/threads/29091/) or [this wiki page](http://www.spigotmc.org/wiki/spigot-patcher/) for detailed usage instructions on how to use SpigotPatcher. To use, run the jar and it works! (Hopefully)
 
 Changelog
+---------
 
-1.0.2: Added gui
-1.0.1: Check file read and write permissions before beginning patch process.
-1.0.0: Initial Release
+* **1.0.2**: Added simple to use GUI. 
+* **1.0.1**: Check file read and write permissions before beginning patch process. 
+* **1.0.0**: Initial Release
+
 Download
-
-You can grab downloads of current and past versions from our Jenkins server.
+--------
+You can grab downloads of current and past versions from our [Jenkins server](http://ci.md-5.net/job/SpigotPatcher/).
 
 TODO
-
-Nothing
+----
+* Nothing
